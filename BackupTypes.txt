@@ -1,0 +1,10 @@
+Backup Types in SQL Server 
+
+Full Backups
+Differential Backups
+Transactional Log Backups
+Copy-Only Backups
+File Backups
+FileGroup Backups
+Partial Backups
+Mirror Backup
